@@ -1,5 +1,5 @@
 /*
- @author 	: ONKAR V.KOTASTHANED
+ @author 	: ONKAR V.KOTASTHANE
  @version	: 1.0
  @reference	: http://sudokusolver.esy.es
 */
